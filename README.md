@@ -23,6 +23,18 @@
 
 I believe in continuous learning and am always excited to explore new tools and frameworks.  
 Right now, I’m diving deep into **Spring Boot** for backend development and **Tailwind CSS** to create responsive designs.
+
+## 🎯 Current Learning
+
+I’m currently focused on:
+
+- **Tailwind CSS**: for designing modern, responsive UIs.
+- **Spring Boot**: for building scalable backend systems.
+
+## 📈 Future Plans
+
+I’m planning to learn **Next.js** to expand my skills in server-side rendered React applications.
+
 <!--
 ---
 i will update it later
@@ -40,7 +52,6 @@ i will update it later
 
 - **Email**: [reddykhetrabasi@gmail.com](mailto:reddykhetrabasi@gmail.com)
 - **LinkedIn**: [Khetrabasi Reddy's LinkedIn Profile](https://www.linkedin.com/in/khetrabasi-reddy-b0ba77224/)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 
 
 <!---
