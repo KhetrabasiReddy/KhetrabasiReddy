@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KhetrabasiReddy
+
 # Hi there, I'm Khetrabasi Reddy! 👋
 
 - 👀 I’m interested in web development, open-source contributions, and learning new technologies.
@@ -15,7 +15,7 @@
 - **Languages**: Java, JavaScript, HTML, CSS
 - **Frameworks & Libraries**: React JS, Bootstrap, Tailwind CSS (learning), Spring Boot (learning)
 - **Database**: MySQL
-- **Other Tools**: Git, VSCode, Postman
+- **Other Tools**: Git, VSCode,IntilliJ Idea
 
 ---
 
@@ -52,7 +52,8 @@ i will update it later
 
 - **Email**: [reddykhetrabasi@gmail.com](mailto:reddykhetrabasi@gmail.com)
 - **LinkedIn**: [Khetrabasi Reddy's LinkedIn Profile](https://www.linkedin.com/in/khetrabasi-reddy-b0ba77224/)
-
+<!-- just to be sure
+--->
 
 <!---
 KhetrabasiReddy/KhetrabasiReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
