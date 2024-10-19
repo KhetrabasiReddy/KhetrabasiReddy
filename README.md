@@ -1,4 +1,3 @@
-
 # Hi there, I'm Khetrabasi Reddy! 👋
 
 - 👀 I’m interested in web development, open-source contributions, and learning new technologies.
@@ -15,7 +14,7 @@
 - **Languages**: Java, JavaScript, HTML, CSS
 - **Frameworks & Libraries**: React JS, Bootstrap, Tailwind CSS (learning), Spring Boot (learning)
 - **Database**: MySQL
-- **Other Tools**: Git, VSCode,IntilliJ Idea
+- **Other Tools**: Git, VSCode, IntelliJ IDEA
 
 ---
 
@@ -34,6 +33,13 @@ I’m currently focused on:
 ## 📈 Future Plans
 
 I’m planning to learn **Next.js** to expand my skills in server-side rendered React applications.
+
+---
+
+## 🌐 Check out My Portfolio
+
+You can view my portfolio and some of my projects here:  
+**[My Portfolio](https://khetrabasireddy.github.io/my-portfolio/)**
 
 <!--
 ---
