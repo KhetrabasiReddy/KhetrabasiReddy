@@ -5,5 +5,5 @@
 🛠 **Tech Stack:** Java, JavaScript, Spring Boot, React, MySQL, Git  
 🌱 **Learning:** Spring Boot & Tailwind CSS  
 🎯 **Goal:** Master Next.js  
-📌 **Portfolio:** [My Work](https://khetrabasireddy.github.io/my-portfolio/)  
+📌 **Portfolio:** [My Work](https://reddy-khetrabasi-portfolio.vercel.app/)  
 📫 **Contact:** [Email](mailto:reddykhetrabasi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khetrabasi-reddy-b0ba77224/)  
